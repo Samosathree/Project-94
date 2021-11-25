@@ -1,0 +1,10 @@
+html, body{
+height : 100%;
+margin : 0;
+background-color: aqua;
+align-self: center;
+}
+
+body{
+    background-image: liner linear-gradient(to right top, #33A0f1, #2591d9, #1882c1, #0a73aa, #006494);
+}
